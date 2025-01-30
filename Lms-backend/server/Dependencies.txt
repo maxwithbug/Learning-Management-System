@@ -1,0 +1,13 @@
+express 
+mongodb
+bcryptjs
+cloudinary
+cookie-parser
+cors
+dotenv
+express
+jsonwebtoken
+mongoose
+multer
+nodemailer
+nodemon
